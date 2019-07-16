@@ -77,14 +77,15 @@ export default {};
       color: rgb(204, 204, 204);
       font-size: 14px;
     }
-    // .licence{
-    //     border-top: 1px solid #ccc;
-    // }
+    .licence{
+        border-top: 1px solid #ccc;
+    }
   }
   .licence{
+    margin: 30px auto 50px;
         border-top: 1px solid #ccc;
         width: 1000px;
-        margin-top: 20px;
+        // margin-top: 20px;
         // margin-bottom: 50px;
         text-align: center;
         padding:50px 0;
