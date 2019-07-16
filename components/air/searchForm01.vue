@@ -131,6 +131,10 @@ export default {
         cb(newData);
       });
     },
+    // 对上面代码进行封装
+    // querySearch(){
+
+    // },
     // 点击出发城市下拉列表值选中就是当前的值得变化
     handleDepartCity(index) {
       // console.log(value,"aaaaa")
